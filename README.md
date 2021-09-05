@@ -1,2 +1,2 @@
 # guix-lfs
-Linux From Scratch, But it's GNU Guix
+Linux From Scratch, Using GNU Guix!!!
